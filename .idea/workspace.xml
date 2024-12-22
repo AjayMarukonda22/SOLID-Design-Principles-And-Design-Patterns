@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a327e13-367d-45fb-ac47-b2e75e2424e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID Design Principles and Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Observer/EmailSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Observer/MobileAppSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Observer/NewsAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Observer/SmsSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Observer/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Strategy/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Strategy/GooglePayPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Strategy/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Strategy/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/BehaviouralDesignPatterns/Strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Builder/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Factory/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Factory/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Factory/NotificationFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Factory/PushNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Factory/SMSNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Prototype/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CreationalDesignPatterns/Singleton/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Adapter/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Adapter/Paypal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Adapter/PaypalAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Adapter/Stripe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Adapter/StripeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Decorator/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Decorator/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Decorator/NotificationDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Decorator/PushDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Decorator/SMSDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/InventoryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/OrderFailedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/OrderPlacedSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/OrderProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/PaymentProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/Facade/ShoppingFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/FlyWeight/StyleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/FlyWeight/TextCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StructuralDesignPatterns/FlyWeight/TextStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/DIP/EmailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/DIP/MessageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/DIP/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/DIP/SMSMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/ISP/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/ISP/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/ISP/Indigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/ISP/SUV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/LSP/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/LSP/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/LSP/NonFlyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/LSP/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/LSP/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/OCP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/OCP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/OCP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/SRP/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPrinciples/SRP/ReportPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resource/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2l6GUamwEMlmIAIYntvJdAK9PfB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Properties&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a327e13-367d-45fb-ac47-b2e75e2424e4" name="Changes" comment="" />
+      <created>1724493133640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724493133640</updated>
+      <workItem from="1724493134745" duration="481000" />
+      <workItem from="1724496195270" duration="5415000" />
+      <workItem from="1724506308996" duration="996000" />
+      <workItem from="1724756335403" duration="4140000" />
+      <workItem from="1724779136894" duration="10000" />
+      <workItem from="1724851993596" duration="2101000" />
+      <workItem from="1724854116297" duration="3000" />
+      <workItem from="1724854139553" duration="2964000" />
+      <workItem from="1724920230690" duration="83000" />
+      <workItem from="1725012640067" duration="2472000" />
+      <workItem from="1725094391508" duration="57000" />
+      <workItem from="1725256275182" duration="2884000" />
+      <workItem from="1725460780081" duration="1865000" />
+      <workItem from="1725467133626" duration="3038000" />
+      <workItem from="1725517115012" duration="5036000" />
+      <workItem from="1725889654817" duration="2020000" />
+      <workItem from="1726925945537" duration="979000" />
+      <workItem from="1727355575941" duration="34000" />
+      <workItem from="1729269236665" duration="2718000" />
+      <workItem from="1729355609503" duration="2208000" />
+      <workItem from="1729600711594" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
